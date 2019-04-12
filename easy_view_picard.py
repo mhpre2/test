@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/kirill/Downloads/Python-3.6.7/python
 # -*- coding: iso-8859-15 -*-
 
 import sys
