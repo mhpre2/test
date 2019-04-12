@@ -1,6 +1,8 @@
 #!/home/kirill/Downloads/Python-3.6.7/python
 # -*- coding: iso-8859-15 -*-
 
+# commenting my code
+
 import sys
 
 f = sys.argv[1]
